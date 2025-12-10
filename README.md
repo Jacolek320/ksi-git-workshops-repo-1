@@ -1,3 +1,1 @@
-# Example repository
-
-Nothing to see here...
+Będzie dobrze
